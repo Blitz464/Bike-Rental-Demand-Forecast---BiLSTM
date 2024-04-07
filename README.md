@@ -21,9 +21,11 @@ To use this notebook, you will need to download the required dataset from Kaggle
 ## Summary of the project
 1.  EDA ![Trends from the notebook](time_series.png "Trend with time") 
 ![Trends from the notebook](weekday_vs_weekend.png "Weekend vs weekday")
-![Trends from the notebook](seasonal_pattern.png "Weekend vs weekday")
-![Trends from the notebook](demand variations by weather.png "Weekend vs weekday")
-![Trends from the notebook](sample_temp_vs_demand.png "Weekend vs weekday") 
+![Trends from the notebook](seasonal_pattern.png "Seasonal patterns")
+![Trends from the notebook](demand_variations_by_weather.png "effects of weather")
+![Trends from the notebook](sample_temp_vs_demand.png "temp vs demand")
+![Trends from the notebook](weekday_trend.png "weekday trend")
+![Trends from the notebook](correlation_heatmap.png "correlation heatmap") 
 3.  Feature Transformation
 4.  Building LSTM architecture
 5.  Fitting and validating the model using train and validation data.
