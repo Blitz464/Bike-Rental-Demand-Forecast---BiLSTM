@@ -26,10 +26,16 @@ To use this notebook, you will need to download the required dataset from Kaggle
 ![Trends from the notebook](sample_temp_vs_demand.png "temp vs demand")
 ![Trends from the notebook](weekday_trend.png "weekday trend")
 ![Trends from the notebook](correlation_heatmap.png "correlation heatmap") 
-3.  Feature Transformation
-4.  Building LSTM architecture
-5.  Fitting and validating the model using train and validation data.
+
+
+2.  Feature Transformation - feature scaling, removing highly correlated variables, one hot encoding etc.
+4.  Building LSTM architecture - built a simple biLSTM architechture(with dropout) using Keras
+
+
+5.  Fitting and validating the model using train and validation data. 
 ![Trends from the notebook](train_valid_loss_over_epochs.png "Epoch vs loss Train-Validation ") 
+
+
 6.  Testing the model performance on out of time Test dataset.
 ![Trends from the notebook](timeseries_data_train_test.png "Actual vs Predicted")
 ![Trends from the notebook](time_series_actual_pred(test).png "Actual vs Predicted") 
