@@ -1,6 +1,5 @@
 # Bike-Rental-Demand-Forecast---BiLSTM
 
-# Demand Forecasting with biLSTM
 
 ## Overview
 This project involves the use of a bi-directional Long Short-Term Memory (biLSTM) model to forecast demand. The model is designed to capture complex patterns in time series data, making it well-suited for predicting future demand based on historical observations.
