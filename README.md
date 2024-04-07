@@ -29,7 +29,10 @@ To use this notebook, you will need to download the required dataset from Kaggle
 3.  Feature Transformation
 4.  Building LSTM architecture
 5.  Fitting and validating the model using train and validation data.
+![Trends from the notebook](train_valid_loss_over_epochs.png "Epoch vs loss Train-Validation ") 
 6.  Testing the model performance on out of time Test dataset.
+![Trends from the notebook](timeseries_data_train_test.png "Actual vs Predicted")
+![Trends from the notebook](time_series_actual_pred(test).png "Actual vs Predicted") 
 
 
 
