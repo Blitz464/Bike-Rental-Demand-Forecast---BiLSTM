@@ -19,7 +19,7 @@ To use this notebook, you will need to download the required dataset from Kaggle
 4. Open the `biLSTM_Demand_Forecast.ipynb` notebook and follow the instructions.
 
 ## Summary of the project
-1.  EDA 
+1.  EDA ![Trends from the notebook](time_series.png "Trend with time")
 2.  Feature Transformation
 3.  Building LSTM architecture
 4.  Fitting and validating the model using train and validation data.
