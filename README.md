@@ -46,7 +46,7 @@ To use this notebook, you will need to download the required dataset from Kaggle
 1.  The model was able to predict consitently across train, validation, test suggesting good generalization
 2.  After testing different architectures, a simpler model with a 32 unit layer performed better than 64 or 128 units on test data
 3.  The model performance drops the farther we look into the future owing to uncertaining with each forecast and any external factors like business growth etc.
-4.  The model is still very good predictor of demand for next 1-2 months. So model refresh cycle could be fitted according to this.
+4.  The model is still very good predictor of demand for the first few weeks. So model refresh cycle could be adjusted according to this.
 5.  Additional features such as supply, #stockouts  etc. could give a better indication of true demand vs realized demand which could lead to better stocking.
 6.  Factors to consider for forecasting future data - the availability of input features like weather, temp etc which in turn are forecasts and carry their own error rate. 
 
