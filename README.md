@@ -48,4 +48,5 @@ To use this notebook, you will need to download the required dataset from Kaggle
 3.  The model performance drops the farther we look into the future owing to uncertaining around external factors, business growth etc.
 4.  The model is still very good predictor of demand for next 1-2 months. So model refresh cycle could be fitted according to this.
 5.  Additional features such as supply, #stockouts  etc. could give a better indication of true demand vs realized demand which could lead to better stocking.
+6.  Factors to consider for forecasting future data - the availability of input features like weather, temp etc which in turn are forecasts and carry their own error rate. 
 
